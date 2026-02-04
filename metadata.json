@@ -1,0 +1,7 @@
+{
+  "name": "GourmetDash AI",
+  "description": "A sophisticated food ordering application featuring a personalized AI food assistant for intelligent recommendations and menu discovery.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
